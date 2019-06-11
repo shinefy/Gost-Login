@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+*.bak
+*.txt
+*.jpg
+*.xml
+*.html
+*.js
+*.sql
+*.log
+
+
+.settings/
+target/
+temp/
+logs/
